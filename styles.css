@@ -48,5 +48,19 @@
       
     }
 
+    p {
+      text-align: center;
+      
+      
+    }
+
+    body {
+      background-image: url(Images/AmericanFlag.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
     
-    
+  h1 {
+    font-size: 70pt;
+    color: red;
+  }
